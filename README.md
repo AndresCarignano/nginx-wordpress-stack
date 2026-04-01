@@ -13,8 +13,7 @@ Stop with:
 ## Variables that must be set:
 
 
-#### .env
-
+#### [.env](.env)
 ```
 MYSQL_ROOT_PASSWORD=
 
@@ -29,7 +28,7 @@ WP_LOGGED_IN_SALT=
 WP_NONCE_SALT=
 ```
 
-#### ngnix/defaults.conf
+#### [ngnix/defaults.conf](ngnix/defaults.conf)
 
 ```
 server_name yourdomain.com www.yourdomain.com;
