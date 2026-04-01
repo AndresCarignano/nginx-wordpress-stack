@@ -1,6 +1,6 @@
 # Wordpress stack
 
-Based in article by @nawazdhandala.
+Based on article by [@nawazdhandala](@nawazdhandala)
 
 [How to Run WordPress with Docker Compose (Nginx + MySQL + PHP)](https://oneuptime.com/blog/post/2026-02-08-how-to-run-wordpress-with-docker-compose-nginx-mysql-php/view)
 
